@@ -9,8 +9,8 @@ O objetivo é fornecer funcionalidades básicas para criar, visualizar, inserir 
 - **JOIN entre Tabelas:** Realiza operações JOIN entre diferentes tabelas para combinar informações.
 
 ## Dicionário de dados
-![dicionario]("C:\Users\mard_\Downloads\dicionario.png")
+![dicionario](img/dicionario.png)
 
 ## Diagrama de Relacionamento
 
-![diagrama]("C:\Users\mard_\Downloads\diagrama.png")
+![diagrama](img/diagrama.png)
