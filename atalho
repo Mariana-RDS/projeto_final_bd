@@ -1,0 +1,23 @@
+
+# Cria a tabela 'telefones'
+create_telefones_table('agenda_telefone.db')
+
+# Adiciona um telefone à tabela 'telefones'
+add_telefone('agenda_telefone.db', '967845670')
+
+# Cria a tabela 'emails'
+create_emails_table('agenda_email.db')
+
+# Adiciona um email à tabela 'emails'
+add_email('agenda_email.db', 'joao@example.com')
+
+# Cria a tabela 'nomes'
+create_nomes_table('agenda_nome.db')
+
+# Adiciona um nome à tabela 'nomes'
+add_nome('agenda_nome.db', 'João')
+
+
+delete_nome('agenda_nome.db', 4)  # Exclui o nome com id 1
+delete_telefone('agenda_telefone.db', 4)  # Exclui o telefone com id 1
+delete_email('agenda_email.db', 4)  # Exclui o email com id 1
